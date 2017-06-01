@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCount.Logic", "LetterCount.Logic\LetterCount.Logic.csproj", "{014A28F1-40E0-4C2E-B5F0-79D9A85D089D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCount.Logic.Test", "LetterCount.Logic.Test\LetterCount.Logic.Test.csproj", "{54CC58FC-2466-4DB8-8BA8-F88FA2E510F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{014A28F1-40E0-4C2E-B5F0-79D9A85D089D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014A28F1-40E0-4C2E-B5F0-79D9A85D089D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014A28F1-40E0-4C2E-B5F0-79D9A85D089D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014A28F1-40E0-4C2E-B5F0-79D9A85D089D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CC58FC-2466-4DB8-8BA8-F88FA2E510F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CC58FC-2466-4DB8-8BA8-F88FA2E510F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CC58FC-2466-4DB8-8BA8-F88FA2E510F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CC58FC-2466-4DB8-8BA8-F88FA2E510F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
